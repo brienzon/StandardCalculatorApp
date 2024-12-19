@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.FormCalculator.resources
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\bin\Debug\StandardCalculatorApp.exe.config
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\bin\Debug\StandardCalculatorApp.exe
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\bin\Debug\StandardCalculatorApp.pdb
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.exe
+C:\Users\ADMIN\Documents\Microsoft Practice\CalculatorApp\StandardCalculatorApp\StandardCalculatorApp\obj\Debug\StandardCalculatorApp.pdb
